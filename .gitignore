@@ -1,0 +1,33 @@
+# Gradle build files
+.gradle/
+build/
+app/build/
+
+# IDE files
+.idea/
+*.iml
+
+# Local configuration files
+local.properties
+
+# Executable files and outputs
+app-debug.apk
+*.apk
+
+# Images and outputs (if not needed in version control)
+Outputs/
+*.jpg
+
+# OS generated files
+.DS_Store
+*.swp
+
+# Logs and temporary files
+*.log
+*.out
+
+# Documentation build output (if generated)
+Documentation/*.pdf  # Uncomment if PDF is auto-generated
+
+# Ignore Git attributes
+.gitattributes
