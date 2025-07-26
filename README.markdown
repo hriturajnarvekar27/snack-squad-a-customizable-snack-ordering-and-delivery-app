@@ -24,7 +24,7 @@ Snack Squad is a mobile application designed to provide a seamless and customiza
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/snack-squad.git
+   git clone https://github.com/hriturajnarvekar27/snack-squad-a-customizable-snack-ordering-and-delivery-app
    ```
 2. Open the project in Android Studio.
 3. Ensure the required dependencies (e.g., Jetpack Compose, Material Design components) are included in the `build.gradle` file.
